@@ -1,4 +1,6 @@
-**This project is under developement. Please do not use it in production. Ideas, issues and patches are very welcome.**
+**Project moved: https://github.com/release-engineering/dist-git**
+
+
 
 Dist Git
 ========
